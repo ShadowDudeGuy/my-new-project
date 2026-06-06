@@ -18,8 +18,6 @@ You use this right after school when you are sitting at your desk doing homework
 2. The AI reads it and picks out the most important definitions and facts.
 3. It gives you 3 easy bullet points to read and a few flashcards to test yourself.
 
-<img src="https://wikimedia.org" width="300" alt="Me after reading science for an hour">
-
 ```python
 # A simple python function to check if a student got a quiz question right
 def check_my_answer(your_answer, correct_answer):
@@ -28,7 +26,6 @@ def check_my_answer(your_answer, correct_answer):
     else:
         return "Not quite. The right answer was: "+your_answer+"."
 
-# Let's test it out:
 print(check_my_answer("Cells", "cells"))
 ```
 
@@ -54,4 +51,3 @@ Next, I want to add a feature where you can actually talk to the AI. You could s
 
 ## Acknowledgments
 * The template is from the University of Helsinki's Building AI course.
-* Image from: [Sleeping Cat on Her Back by Umberto Salvagnin](https://wikimedia.org) / [CC BY 2.0](https://creativecommons.org)
