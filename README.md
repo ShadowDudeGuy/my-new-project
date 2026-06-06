@@ -1,4 +1,4 @@
-# My Middle School Homework Helper
+# My School Homework Helper
 Final project for the Building AI course
 
 ## Summary
